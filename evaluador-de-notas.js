@@ -1,4 +1,4 @@
-let nota = 90;
+let nota = 0;
 if (nota >= 90) {
     console.log("Tu calificación es excelente");
 }
